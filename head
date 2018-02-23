@@ -1,0 +1,112 @@
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge"> <!-- † -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1" />
+
+<!-- Helps prevent duplicate content issues -->
+<link rel="canonical" href="http://example.com/article/?page=2">
+<base href="http://example.com/page.html">
+
+<meta name="hreflang" content="en_US" />
+<meta name="timezone" content="America/Chicago" />
+<meta name="google-site-verification" content="_______" />
+<title>ESPN: The Worldwide Leader in Sports</title>
+<meta name="title" content="ESPN: The Worldwide Leader in Sports"/>
+
+<!-- Link to an external CSS file -->
+<link rel="stylesheet" href="styles.css">
+
+<!-- Short description of the document (limit to 150 characters) -->
+<!-- This content *may* be used as a part of search engine results. -->
+<meta name="description" content="A description of the page">
+
+<!-- Control the behavior of search engine crawling and indexing -->
+<meta name="robots" content="index,follow"><!-- All Search Engines -->
+<meta name="googlebot" content="index,follow"><!-- Google Specific -->
+
+<!-- Verify website ownership -->
+<meta name="google-site-verification" content="verification_token"><!-- Google Search Console -->
+<meta name="yandex-verification" content="verification_token"><!-- Yandex Webmasters -->
+<meta name="msvalidate.01" content="verification_token"><!-- Bing Webmaster Center -->
+<meta name="alexaVerifyID" content="verification_token"><!-- Alexa Console -->
+<meta name="p:domain_verify" content="code_from_pinterest"><!-- Pinterest Console-->
+<meta name="norton-safeweb-site-verification" content="norton_code"><!-- Norton Safe Web -->
+
+<!-- Stores a cookie on the client web browser for identification purposes -->
+<meta http-equiv="set-cookie" content="name=value; expires=date; path=url">
+
+<!-- Geo tags -->
+<meta name="ICBM" content="latitude, longitude">
+<meta name="geo.position" content="latitude;longitude">
+<meta name="geo.region" content="country[-state]"><!-- Country code (ISO 3166-1): mandatory, state code (ISO 3166-2): optional; eg. content="US" / content="US-NY" -->
+<meta name="geo.placename" content="city/town"><!-- eg. content="New York City" -->
+
+<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
+
+<!-- Links to information about the author(s) of the document -->
+<link rel="author" href="humans.txt">
+
+<!-- Refers to a copyright statement that applies to the link's context -->
+<link rel="license" href="copyright.html">
+
+<!-- Provides information about an author or another person -->
+<link rel="me" href="https://google.com/profiles/thenextweb" type="text/html">
+<link rel="me" href="mailto:name@example.com">
+<link rel="me" href="sms:+15035550125">
+
+<meta name="reply-to" content=" ______@.com">
+<meta name="distribution" content="global">
+
+<!-- Theme Color for Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#4285f4">
+
+<!-- Links to top level resource in an hierarchical structure -->
+<link rel="index" href="http://example.com/article/">
+
+<!-- Notifies a URL when you link to it on your document -->
+<link rel="webmention" href="http://example.com/webmention">
+
+
+<!-- For IE 10 and below -->
+<!-- Place favicon.ico in the root directory - no tag necessary -->
+
+<!-- Icon in the highest resolution we need it for -->
+<link rel="icon" sizes="192x192" href="/path/to/icon.png">
+
+<!-- Apple Touch Icon (reuse 192px icon.png) -->
+<link rel="apple-touch-icon" href="/path/to/apple-touch-icon.png">
+
+<!-- Safari Pinned Tab Icon -->
+<link rel="mask-icon" href="/path/to/icon.svg" color="blue">
+
+<!-- Facebook open graph -->
+<meta property="fb:app_id" content="123456789">
+<meta property="og:url" content="http://example.com/page.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Content Title">
+<meta property="og:image" content="http://example.com/image.jpg">
+<meta property="og:description" content="Description Here">
+<meta property="og:site_name" content="Site Name">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@site_account">
+<meta name="twitter:creator" content="@individual_account">
+<meta name="twitter:url" content="http://example.com/page.html">
+<meta name="twitter:title" content="Content Title">
+<meta name="twitter:description" content="Content description less than 200 characters">
+<meta name="twitter:image" content="http://example.com/image.jpg">
+
+<!-- Google +/Schema.org -->
+<link href="https://plus.google.com/+YourPage" rel="publisher">
+<meta itemprop="name" content="Content Title">
+<meta itemprop="description" content="Content description less than 200 characters">
+<meta itemprop="image" content="http://example.com/image.jpg">
+
+<!-- Force IE 8/9/10 to use its latest rendering engine -->
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<!-- Disable automatic detection and formatting of possible phone numbers by Skype Toolbar browser extension -->
+<meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
