@@ -105,6 +105,16 @@
 <meta itemprop="description" content="Content description less than 200 characters">
 <meta itemprop="image" content="http://example.com/image.jpg">
 
+/*
+ * Log all jQuery AJAX requests to Google Analytics
+ * See: https://www.alfajango.com/blog/track-jquery-ajax-requests-in-google-analytics/
+ */
+if (typeof ga !== "undefined" && ga !== null) {
+    $(document).ajaxSend(function(event, xhr, settings){
+        ga('send', 'pageview', settings.url);
+    });
+}
+
 <!-- Force IE 8/9/10 to use its latest rendering engine -->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
